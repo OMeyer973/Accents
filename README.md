@@ -10,14 +10,14 @@
 
 ## How to have Accents run automatically when I start my PC ?
 
-- [Download Accents](https://github.com/OMeyer973/Accents/archive/master.zip)
+- [Download Accents](https://github.com/OMeyer973/Accents/archive/master.zip), extract the content
 - Press Win+R to open the Run dialog, then enter shell:startup and click OK. This will open the Startup folder for the current user.
-- Paste Accents.exe and Accents.ini in the Startup folder. Any program linked in this folder will start automatically on startup.
+- coppy Accent.exe and paste a shortcut in the Startup folder (right click > paste shortcut). Any program linked in this folder will start automatically on startup.
 - that's it !
 
 ---
 
-V1.1 by Myro (more accents, disabled characters cycling)
+Version 1.1 by Myro (more accents, ux tweaks)
 
 based on [Accents V1.0 by Skrommel](http://www.dcmembers.com/skrommel/download/accents/)
 
