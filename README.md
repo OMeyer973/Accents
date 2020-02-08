@@ -12,7 +12,7 @@
 
 - [Download Accents](https://github.com/OMeyer973/Accents/archive/master.zip)
 - Press Win+R to open the Run dialog, then enter shell:startup and click OK. This will open the Startup folder for the current user.
-- Paste Accents.exe and Accents.exe in the Startup folder. Any program linked in this folder will start automatically on startup.
+- Paste Accents.exe and Accents.ini in the Startup folder. Any program linked in this folder will start automatically on startup.
 - that's it !
 
 ---
