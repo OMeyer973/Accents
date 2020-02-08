@@ -1,11 +1,8 @@
 # Accents
-<img src="Accents.ico" alt="Accents icon" width="32" height="32" /> 
-
----
 
 ![press a key to cycle trough accents](AccentsScreen.gif "press a key to cycle trough accents")
 
-[Download Accents for windows](https://github.com/OMeyer973/Accents/raw/master/Accents.exe)
+[<img src="Accents.ico" alt="Accents icon" width="24" height="24" /> Download Accents for windows](https://github.com/OMeyer973/Accents/archive/master.zip)
 
 - Press a key three times or more to apply accents
 - Change accents using Settings in the tray menu (Accent needs to be restarted for it to take effect)
